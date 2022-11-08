@@ -1,1 +1,1 @@
-# ruthvikmukkamala.github.io
+Personal portfolio website of @RuthvikMukkamala
